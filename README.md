@@ -1,5 +1,7 @@
 # RST Project for ICS3U
-ICS3U Final Coding Project done during OSSD (Grade 12 Program)
+ICS3U Final Coding Project done during OSSD (Grade 12 Program) in 2024
+
+This repository was created later to archive the project and include it as part of my programming portfolio.
 
 ---
 
